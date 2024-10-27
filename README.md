@@ -51,4 +51,4 @@ This will open the app in your default web browser. Follow the prompts on the in
 - **Development Tools:** Jupyter Notebook for initial model development and testing
 
 # License
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+This project is licensed under the **GNU General Public License v3.0**. See the LICENSE file for details.
