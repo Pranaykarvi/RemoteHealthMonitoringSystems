@@ -2,17 +2,17 @@
 A web application for health condition assessment, designed to provide predictive insights based on user-provided medical data. This project leverages Streamlit to create a user-friendly interface and integrates machine learning models to provide accurate health predictions.
 
 # Table of Contents:
-Overview
-Features
-Installation
-Usage
-Screenshots
-Demo Video
-Technical Details
-Contributing
-License
+- Overview
+- Features
+- Installation
+- Usage
+- Screenshots
+- Demo Video
+- Technical Details
+- Contributing
+- License
 # Overview:
-This health monitoring system uses Convolutional Neural Network (CNN) and XGBoost models to classify and predict various health conditions based on input medical data. It’s designed to help users make preliminary health assessments in an accessible way.
+This health monitoring system uses Support vector machine (Svm) model to classify and predict various health conditions based on input medical data. It’s designed to help users make preliminary health assessments in an accessible way.
 
 # Features:
 - **Predictive analysis based on user input medical data.**
@@ -45,10 +45,10 @@ This will open the app in your default web browser. Follow the prompts on the in
 
 
 # Technical Details
-**Framework: ** Streamlit
-**Model Used: ** Svm
-**Programming Language: ** Python
-**Development Tools: ** Jupyter Notebook for initial model development and testing
+- **Framework:** Streamlit
+- **Model Used:** Svm
+- **Programming Language:** Python
+- **Development Tools:** Jupyter Notebook for initial model development and testing
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the **MIT License**. See the LICENSE file for details.
