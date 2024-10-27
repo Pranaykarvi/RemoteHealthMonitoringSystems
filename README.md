@@ -1,7 +1,7 @@
-#Health Monitoring System
+# Health Monitoring System
 A web application for health condition assessment, designed to provide predictive insights based on user-provided medical data. This project leverages Streamlit to create a user-friendly interface and integrates machine learning models to provide accurate health predictions.
 
-#Table of Contents:
+# Table of Contents:
 Overview
 Features
 Installation
@@ -11,14 +11,14 @@ Demo Video
 Technical Details
 Contributing
 License
-#Overview:
+# Overview:
 This health monitoring system uses Convolutional Neural Network (CNN) and XGBoost models to classify and predict various health conditions based on input medical data. It’s designed to help users make preliminary health assessments in an accessible way.
 
-#Features:
+# Features:
 - **Predictive analysis based on user input medical data.**
 - **Simple, interactive interface built with Streamlit.**
 - **Uses Svm model for reliable health condition prediction.**
-#Installation:
+# Installation:
 - git clone https://github.com/pranaykarvi/health-monitoring-system.git
 - cd health-monitoring-system
 - pip install -r requirements.txt
@@ -26,7 +26,7 @@ This health monitoring system uses Convolutional Neural Network (CNN) and XGBoos
 
 This will open the app in your default web browser. Follow the prompts on the interface to input medical data and receive health condition predictions.
 
-#Screenshots
+# Screenshots
 **Home Screen**
 ![image](https://github.com/user-attachments/assets/af826d8e-9d0c-4aee-9809-4f4b22be671e)
 
@@ -44,11 +44,11 @@ This will open the app in your default web browser. Follow the prompts on the in
 [![Demo Video](https://img.youtube.com/vi/1aCVVB8-uPY/0.jpg)](https://youtu.be/1aCVVB8-uPY)
 
 
-#Technical Details
+# Technical Details
 **Framework: ** Streamlit
 **Model Used: ** Svm
 **Programming Language: ** Python
 **Development Tools: ** Jupyter Notebook for initial model development and testing
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
