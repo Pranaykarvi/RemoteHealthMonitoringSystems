@@ -45,7 +45,7 @@ This will open the app in your default web browser. Follow the prompts on the in
 
 
 # Technical Details
-- **Framework:** Streamlit
+- **Framework:** Streamlit, Tensorflow
 - **Model Used:** Svm
 - **Programming Language:** Python
 - **Development Tools:** Jupyter Notebook for initial model development and testing
